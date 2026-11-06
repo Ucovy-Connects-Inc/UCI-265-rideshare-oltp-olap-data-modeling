@@ -1,0 +1,7 @@
+erDiagram
+    DIM_RIDER ||--o{ FACT_RIDES : rider_sk
+    DIM_DRIVER ||--o{ FACT_RIDES : driver_sk
+    DIM_VEHICLE ||--o{ FACT_RIDES : vehicle_sk
+    DIM_ZONE ||--o{ FACT_RIDES : zone_sk
+    DIM_DATE ||--o{ FACT_RIDES : date_sk
+    DIM_PAYMENT_METHOD ||--o{ FACT_RIDES : payment_method_sk

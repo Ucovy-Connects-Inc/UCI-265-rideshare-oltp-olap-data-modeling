@@ -1,0 +1,3 @@
+driver_id,email,phone_number,driver_name,license_number,rating,total_rides,is_active,is_online,city,state,created_at
+101,noah.driver@example.com,3145550201,Noah Brown,MO-D1001,4.85,125,true,true,St Louis,MO,2025-08-10 08:00:00
+102,ava.driver@example.com,2145550202,Ava Miller,TX-D1002,4.72,98,true,false,Dallas,TX,2025-09-12 08:00:00

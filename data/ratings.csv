@@ -1,0 +1,4 @@
+rating_id,ride_id,rater_type,rater_id,ratee_type,ratee_id,stars,comment,created_at
+601,401,RIDER,1,DRIVER,101,5,Great ride,2026-10-01 08:35:00
+602,401,DRIVER,101,RIDER,1,5,Good rider,2026-10-01 08:36:00
+603,402,RIDER,2,DRIVER,102,4,Smooth trip,2026-10-02 17:55:00
