@@ -1,0 +1,3 @@
+zone_id,zone_name,base_rate_per_km,base_rate_per_min,minimum_fare,is_active
+301,St Louis Downtown,1.25,0.35,7.50,true
+302,Dallas Central,1.35,0.40,8.00,true
