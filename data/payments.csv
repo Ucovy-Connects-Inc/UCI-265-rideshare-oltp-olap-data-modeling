@@ -1,0 +1,3 @@
+payment_id,ride_id,amount,payment_method,status,gateway_transaction_id,failure_reason,processed_at,created_at
+501,401,19.25,CARD,PAID,GTX-401,,2026-10-01 08:30:00,2026-10-01 08:29:30
+502,402,31.00,PAYPAL,PAID,GTX-402,,2026-10-02 17:50:00,2026-10-02 17:49:30

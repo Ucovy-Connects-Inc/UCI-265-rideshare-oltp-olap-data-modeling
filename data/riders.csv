@@ -1,0 +1,4 @@
+rider_id,email,phone_number,rider_name,city,state,is_active,created_at
+1,maya@example.com,3145550101,Maya Singh,St Louis,MO,true,2026-01-05 09:00:00
+2,liam@example.com,2145550102,Liam Carter,Dallas,TX,true,2026-02-08 10:00:00
+3,emma@example.com,2065550103,Emma Reed,Seattle,WA,true,2026-03-10 11:00:00

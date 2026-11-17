@@ -1,0 +1,10 @@
+erDiagram
+    RIDERS ||--o{ RIDES : requests
+    DRIVERS ||--o{ RIDES : completes
+    DRIVERS ||--o{ VEHICLES : operates
+    VEHICLES ||--o{ RIDES : used_for
+    PRICING_ZONES ||--o{ RIDES : prices
+    PRICING_ZONES ||--o{ SURGE_PRICING : has
+    DRIVERS ||--o{ DRIVER_LOCATIONS : reports
+    RIDES ||--o{ PAYMENTS : has
+    RIDES ||--o{ RATINGS : has
